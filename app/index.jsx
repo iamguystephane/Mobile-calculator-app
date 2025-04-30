@@ -96,7 +96,7 @@ function Calculator() {
             style={[styles.buttonContent, { color: "cyan" }]}
             onPress={clear}
           >
-            {" "}
+           
             AC{" "}
           </Text>
         </TouchableOpacity>
